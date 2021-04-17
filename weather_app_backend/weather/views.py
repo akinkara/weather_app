@@ -22,7 +22,7 @@ def get_weather(request):
 
 def give_me_weather(city, days):
     if 2 < len(city) < 45:
-        api_key = 'fe369389c07f4513927210304210104'
+        api_key = ''
         req = "http://api.worldweatheronline.com/premium/v1/weather.ashx"
         payload = {
             "key": api_key,
