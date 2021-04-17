@@ -1,0 +1,5 @@
+Ahmet bey'in isteği üzerine projeyi sadece django yerine, django-rest ve vue js kullanarak geliştirdim. Hava durumu api istekleri için backend'i kullandım, gelen istekleri 
+ve yanıtları logladım, kullanıcı girişi için simple-jwt paketini kullandım. 
+Test Kullanıcısı;
+username: admin
+password: admin 
